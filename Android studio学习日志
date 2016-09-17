@@ -1,0 +1,6 @@
+  今天是第一次使用github，这篇文章是用来记录我第一次使用android studio的心得。
+  Android studio的文件结构（structure）：project和module
+  1.project相当于Eclipse中的workspace
+  2.module相对于Eclipse中的project
+  从Android studio的文档中看出，Android studio是基于Intellij IDEA（Java语言的开发集成环境）
+  无论你在Intellij IDEA中做什么，都是在一个工程的context中去完成。而一个工程是一个软件解决方案的一个组成单元。
